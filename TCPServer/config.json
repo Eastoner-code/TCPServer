@@ -1,0 +1,10 @@
+{
+  "Port": 5000,
+  "BrowserProcessName": "mypal",
+  "BrowserWindowOverlayOnTop": true,
+  "BrowserPath": "C:\\Program Files\\Mypal\\mypal.exe",
+  "DefaultWebPageLink": "http://yourdefaultpage.com",
+
+  "LogfilePath": "Logs/Log.txt",
+  "LogfileLimitMB": 1048576
+}
